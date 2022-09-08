@@ -1,1 +1,1 @@
-i have worked
+my alias script is here
